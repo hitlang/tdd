@@ -16,7 +16,6 @@ import unittest
 #
 # finally:
 #     browser.close()
-
 class NewVisitorTest(unittest.TestCase):
 
     def setUp(self) -> None:
