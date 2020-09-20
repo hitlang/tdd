@@ -3,3 +3,4 @@
 /.idea
 /superlists/superlists/__pycache__
 /superlists/__pycache__
+*.pyc

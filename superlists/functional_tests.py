@@ -24,7 +24,7 @@ class NewVisitorTest(unittest.TestCase):
     def test_can_start_a_list_and_retrieve_it_later(self):
         self.driver.get("http://localhost:8000")
 
-        self.assertIn("Django" , self.driver.title)
+        self.assertIn("To-Do lists" , self.driver.title)
 
         # self.fail("finish the test") # 总会失败
         pass
