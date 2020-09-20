@@ -1,3 +1,5 @@
 /superlists/geckodriver.log
 /superlists/db.sqlite3
 /.idea
+/superlists/superlists/__pycache__
+/superlists/__pycache__
